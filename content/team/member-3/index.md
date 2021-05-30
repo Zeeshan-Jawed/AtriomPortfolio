@@ -1,7 +1,7 @@
 ---
 id: 3
 # image: './image.jpg'
-image: './mem3.JPG'
+image: './mem3.jpg'
 name: "Mujtaba Khan"
 profession: "Head Of Marketing"
 facebook: "https://www.facebook.com/"
