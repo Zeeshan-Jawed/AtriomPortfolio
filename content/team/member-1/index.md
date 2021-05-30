@@ -1,7 +1,7 @@
 ---
 id: 1
 # image: './image.jpg'
-image: './mem1.jpg'
+image: './mem1.JPG'
 name: "Asad Azhar Sheikh"
 profession: "Chief Financial Officer CFO"
 facebook: "https://www.facebook.com/"
